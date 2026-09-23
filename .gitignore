@@ -1,0 +1,13 @@
+﻿# Dados brutos pesados do dataset (nao subir ao GitHub)
+data/
+data/tracking/
+
+# Arquivos gerados grandes (podem ser recriados com pipeline.py)
+data.json
+data.js
+
+# Temporarios
+_*.py
+_*.txt
+*.log
+check_json.py
